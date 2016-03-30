@@ -1,0 +1,29 @@
+{
+  "name": "react_intro",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctgunn/react_intro.git"
+  },
+  "author": "Cliff Gunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctgunn/react_intro/issues"
+  },
+  "homepage": "https://github.com/ctgunn/react_intro"
+}
